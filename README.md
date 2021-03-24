@@ -12,7 +12,7 @@
 
 
 **Online Coding Schools**
-**2. Training in HTML/CSS, JavaScript etc. Will be a combination of Face to Face training, plus online courses and access to online tutors. We'll be using Dash initially, 
+**2.Training in HTML/CSS, JavaScript etc. Will be a combination of Face to Face training, plus online courses and access to online tutors. We'll be using Dash initially, 
  however bookmark the other resources.**
 
 
@@ -25,7 +25,7 @@ Lynda                                          https://www.lynda.com/
 FreeCodeCamp                                  https://www.freecodecamp.org/
 
 **Reference Pages **
-3.  "Reference Pages" and bookmark the following resources:
+3. "Reference Pages" and bookmark the following resources:
 
 
 Mozilla Developer Network                       https://developer.mozilla.org/en-US/
@@ -37,7 +37,7 @@ Codrops                                         https://tympanus.net/codrops/
 
 
 **Staying up to date** 
-**4.  "Staying up to date"and bookmark the following resources:**
+**4."Staying up to date"and bookmark the following resources:**
 
 
 Smashing Magazine                              http://www.smashingmagazine.com/
