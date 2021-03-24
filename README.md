@@ -1,7 +1,7 @@
 # Test-Ed-Bookmarks
 
 **Coding & Learning Resources**
-1. DOWNLOAD THE FOLLOWING:
+**1.Download and install the following:**
 
 * Latest Chrome browser: https://www.google.com/chrome/index.html
 * Latest Firefox browser Developer Edition: https://developer.mozilla.org/en-US/Firefox/Developer_Edition
@@ -10,12 +10,10 @@
 * Create a main folder in your bookmarks called "Test-Ed" 
 
 
-
 **Online Coding Schools**
 **2. Training in HTML/CSS, JavaScript etc. Will be a combination of Face to Face training, plus online courses and access to online tutors. We'll be using Dash initially, 
  however bookmark the other resources.**
 
-"Online Coding Schools" 
 
 Dash                                           https://dash.generalassemb.ly/
 Code School                                    https://www.codeschool.com/
@@ -28,6 +26,7 @@ FreeCodeCamp                                  https://www.freecodecamp.org/
 **Reference Pages **
 3.  "Reference Pages" and bookmark the following resources:
 
+
 Mozilla Developer Network                       https://developer.mozilla.org/en-US/
 W3Schools                                       http://www.w3schools.com/
 CSS Tricks                                      https://css-tricks.com/
@@ -35,8 +34,9 @@ Web Field Manual                                http://webfieldmanual.com/
 Site Point                                      http://sitepoint.com/
 Codrops                                         https://tympanus.net/codrops/
 
-**Staying up to date**
-**4.  "Staying up to date" and bookmark the following resources:**
+
+**Staying up to date** 
+**4.  "Staying up to date"and bookmark the following resources:**
 Smashing Magazine                              http://www.smashingmagazine.com/
 Sidebar.io                                     http://sidebar.io/
 Codrops                                        http://tympanus.net/codrops/
