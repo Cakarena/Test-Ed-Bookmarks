@@ -3,6 +3,7 @@
 **Coding & Learning Resources**
 **1.Download and install the following:**
 
+
 * Latest Chrome browser: https://www.google.com/chrome/index.html
 * Latest Firefox browser Developer Edition: https://developer.mozilla.org/en-US/Firefox/Developer_Edition
 * A free text editor i.e. https://code.visualstudio.com/ 
@@ -37,6 +38,8 @@ Codrops                                         https://tympanus.net/codrops/
 
 **Staying up to date** 
 **4.  "Staying up to date"and bookmark the following resources:**
+
+
 Smashing Magazine                              http://www.smashingmagazine.com/
 Sidebar.io                                     http://sidebar.io/
 Codrops                                        http://tympanus.net/codrops/
